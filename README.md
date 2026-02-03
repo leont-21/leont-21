@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi!
+I'm currently working on learning github better, so hopefully I'll be able to create more projects on here.
+You might be able so see some cool project's I'll work on in the future.
 
 <!--
 **leont-21/leont-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
